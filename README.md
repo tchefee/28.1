@@ -2,7 +2,7 @@
 https://b2c.passport.rt.ru
 
 #Тест-кейсы и баг-репорт:
-https://docs.google.com/document/d/1mZi8GpWUvpGD4za7kOgDWTfVTktWB8ks1qeMgHKmSYk/edit
+https://docs.google.com/spreadsheets/d/1KK0jaUWMtiuzsYu-mmxPAbB98zwQN3vituoKzHAiuMU/edit?usp=sharing
 
 #При тестировании применялись следующие методики: 
     <br>- пограничные значения, 
